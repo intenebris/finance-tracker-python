@@ -34,7 +34,7 @@ finance_tracker/
 
 1) Клонировать репозиторий
 ```
-git clone https://github.com/your-username/finance-tracker-python.git
+git clone https://github.com/intenebris/finance-tracker-python.git
 cd finance-tracker-python
 ```
 2) Создать виртуальное окружение
